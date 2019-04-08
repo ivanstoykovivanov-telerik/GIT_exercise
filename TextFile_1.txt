@@ -2,4 +2,9 @@ Hello World !
 Second line in the commit. 
 Third line of change 
 
+<<<<<<< HEAD:TextFile_1.txt
 Anne changed this! 
+=======
+Ben changed this ! 
+Ben changes this again.
+>>>>>>> 3d14a07d07b99a3e6bd8eccbaac6602d279bcf66:TextFile_1.txt
