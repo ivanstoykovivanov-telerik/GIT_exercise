@@ -1,5 +1,7 @@
 Hello World ! 
 ANNE : Change this !
+ANNE : Change this 2 !
+
 Second line in the commit. 
 Third line of change 
 
